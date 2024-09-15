@@ -1,4 +1,4 @@
-# exercise1-git-github-gitclassroom
+# exercise2-git-github-gitclassroom
 ## 课前准备
 在习题课完成之前，请完成以下配置
 - Git在本机上的[安装](https://git-scm.com/downloads)
