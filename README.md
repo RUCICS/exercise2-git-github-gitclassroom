@@ -23,4 +23,4 @@
   ```
   - 将生成的id_rsa.pub中的内容复制到GitHub账户中即可
     `右上角`->`settings`->`SSH and GPG keys`->`New SSH`
-- (如果你是Windows用户)完成Git在WSL中的安装与配置，详情参阅[教程中Git凭据管理器部分](https://learn.microsoft.com/zh-cn/windows/wsl/tutorials/wsl-git#git-credential-manager-setup)
+- (如果你是Windows用户)完成Git在WSL中的安装与配置，如果感兴趣的同学可以参阅[教程中Git凭据管理器部分](https://learn.microsoft.com/zh-cn/windows/wsl/tutorials/wsl-git#git-credential-manager-setup)进行配置的共享。
