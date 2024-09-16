@@ -14,12 +14,12 @@
   ```shell
   cd ~/.ssh
   ls
-  //看是否存在 id_rsa 和 id_rsa.pub文件，如果存在，说明已经有SSH Key
+  #看是否存在 id_rsa 和 id_rsa.pub文件，如果存在，说明已经有SSH Key
   ```
   - 如果没有密钥，使用如下命令生成即可
   ```shell
   ssh-keygen -t rsa -C "xxx@xxx.com"
-  //执行后一直回车即可
+  #执行后一直回车即可
   ```
   - 将生成的id_rsa.pub中的内容复制到GitHub账户中即可
     `右上角`->`settings`->`SSH and GPG keys`->`New SSH`
